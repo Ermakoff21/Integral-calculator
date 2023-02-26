@@ -1,0 +1,224 @@
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.AssemblyReference.cache
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.GenerateResource.cache
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.CoreCompileInputs.cache
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NUnit3.TestAdapter.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nunit.engine.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nunit.engine.api.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nunit.engine.core.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\testcentric.engine.metadata.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AngouriMath.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Antlr4.Runtime.Standard.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GenericTensor.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HonkSharp.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\IndexRange.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Numbers.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nunit.framework.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AngouriMath.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Antlr4.Runtime.Standard.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GenericTensor.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HonkSharp.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Numbers.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nunit.framework.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.CopyComplete
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\IntegralCalculator.IntegralCalcForm.resources
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Обучение\Ulearn\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\NUnit3.TestAdapter.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\nunit.engine.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\nunit.engine.api.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\nunit.engine.core.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\testcentric.engine.metadata.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\AngouriMath.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\Antlr4.Runtime.Standard.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\GenericTensor.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\HonkSharp.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\IndexRange.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\Numbers.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\nunit.framework.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\AngouriMath.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\Antlr4.Runtime.Standard.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\GenericTensor.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\HonkSharp.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\Numbers.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\nunit.framework.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.AssemblyReference.cache
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.IntegralCalcForm.resources
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.GenerateResource.cache
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.CoreCompileInputs.cache
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.CopyComplete
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Обучение\Ulearn\IntegralCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\nunit.engine.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\nunit.engine.api.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\nunit.engine.core.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\AngouriMath.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\GenericTensor.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\HonkSharp.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\IndexRange.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\Numbers.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\nunit.framework.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\AngouriMath.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\GenericTensor.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\HonkSharp.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\Numbers.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\nunit.framework.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.IntegralCalcForm.resources
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.GenerateResource.cache
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\obj\Debug\IntegralCalculator.csproj.CopyComplete
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\nunit.engine.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\nunit.engine.api.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\nunit.engine.core.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\AngouriMath.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\GenericTensor.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\HonkSharp.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\IndexRange.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\Numbers.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\nunit.framework.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\System.Buffers.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\System.Memory.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\System.ValueTuple.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\ZedGraph.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\AngouriMath.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\GenericTensor.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\HonkSharp.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\Numbers.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\nunit.framework.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\System.Buffers.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\System.Memory.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\System.ValueTuple.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\ZedGraph.xml
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\obj\Debug\IntegralCalculator.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\obj\Debug\IntegralCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\obj\Debug\IntegralCalculator.IntegralCalcForm.resources
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\obj\Debug\IntegralCalculator.csproj.GenerateResource.cache
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\obj\Debug\IntegralCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\obj\Debug\IntegralCalculator.csproj.CopyComplete
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HUAWEI\OneDrive\Рабочий стол\IntegralCalculator\IntegralCalculator\IntegralCalculator\obj\Debug\WindowsFormsApp1.pdb
